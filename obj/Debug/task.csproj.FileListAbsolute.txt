@@ -1,0 +1,11 @@
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\bin\Debug\task.exe.config
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\bin\Debug\task.exe
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\bin\Debug\task.pdb
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\obj\Debug\task.Form1.resources
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\obj\Debug\task.Properties.Resources.resources
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\obj\Debug\task.csproj.GenerateResource.Cache
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\obj\Debug\task.exe
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\obj\Debug\task.pdb
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\Users\User\documents\visual studio 2015\Projects\oracle\task\obj\Debug\task.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\oracle\task\bin\Debug\Excel.dll
